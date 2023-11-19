@@ -3,7 +3,6 @@
 ![adgutier's 42 stats](https://profile.intra.42.fr/users/adgutier)
 
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwM2MxNTljODE0ZmM2NGY0ZGE0YzA5ODEzYTk5OTkwNDA1M2Q0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🖥 &nbsp; Student in 42Madrid
@@ -16,11 +15,11 @@
 
 <br>
 
-<img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiamsteradri=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="Adgutier's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsteradri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Adgutier's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsteradri&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SrTonno/github-readme-stats)
+[![Adgutier's GitHub stats](https://github-readme-stats.vercel.app/api?username=amsteradri)](https://github.com/amsteradri/github-readme-stats)
 
 
 <h3> 🤝 Connect with Me </h3>
