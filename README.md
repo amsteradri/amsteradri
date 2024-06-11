@@ -1,4 +1,4 @@
-<h2> 🌟 Adgutier 🌟 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> 🌟 Adrián Gutiérrez Segovia a.k.a adgutier 🌟 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 ![Adgutier's 42 stats](https://profile.intra.42.fr/users/adgutier)
 
