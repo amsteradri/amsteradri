@@ -18,7 +18,7 @@
 
 </br>
 
-[![Adgutier's GitHub stats](https://github-readme-stats.vercel.app/api?username=amsteradri)](https://github.com/amsteradri/github-readme-stats)
+
 
 <h3> 🤝 Let Us Connect and Forge New Alliances </h3>
 
