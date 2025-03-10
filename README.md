@@ -57,14 +57,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amsteradri/amsteradri/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"></p>
 
 ###
