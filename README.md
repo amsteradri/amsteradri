@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adrián Gutiérrez and I'm a Junior full stack developer from Madrid</h2>
+<h2 align="left">Hi 👋! My name is Adrián Gutiérrez and I'm a Junior full stack developer from Madrid working at Telefónica Innovación Digital</h2>
 
 ###
 
