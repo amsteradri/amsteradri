@@ -1,68 +1,107 @@
-<h2 align="left">Hi 👋! My name is Adrián Gutiérrez and I'm a Junior full stack developer from Madrid working at Telefónica Innovación Digital</h2>
+<div align="center">
 
-###
+<!-- Header con gradiente animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=ADRIÁN%20GUTIÉRREZ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevRel%20Intern%20|%20API%20Advocate&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;DevRel+Intern+at+Telefonica;API+Advocate;Building+Amazing+Products;From+Madrid+with+Love" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+## 💫 About Me
+```typescript
+const adrian = {
+    location: "Madrid 🇪🇸",
+    roles: ["Full Stack Developer", "DevRel Intern", "API Advocate"],
+    company: "Telefónica Innovación Digital",
+    passions: ["Clean Code", "Innovation", "Problem Solving", "Developer Experience"],
+    currentlyLearning: ["Cloud Architecture", "AI/ML", "Advanced React Patterns"],
+    funFact: "I turn coffee ☕ into code 💻"
+};
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsteradri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amsteradri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amsteradri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%" alt="stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsteradri&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8&layout=compact" width="100%" alt="languages" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amsteradri&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" width="100%" alt="activity graph" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,c,dart,kotlin,flutter&theme=dark" />
+
+### 🎨 Frontend & Styling
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=express,django,flask,mongodb,mysql,postgresql&theme=dark" />
+
+### 🔧 Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman&theme=dark" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/adrigutrzz_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="amsteradri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adri%C3%A1n-gutierrez-segovia-1275a8165/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+
+## 📬 Let's Connect!
+
+<a href="https://www.linkedin.com/in/adri%C3%A1n-gutierrez-segovia-1275a8165/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
+</a>
+<a href="mailto:amsteradri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
+</a>
+<a href="https://www.instagram.com/adrigutrzz_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram" />
+</a>
+
+<br><br>
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/amsteradri/amsteradri/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
 
-<p align="left"></p>
+![Visitor Count](https://profile-counter.glitch.me/amsteradri/count.svg)
 
-###
+<img src="https://komarev.com/ghpvc/?username=amsteradri&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+
+</div>
