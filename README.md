@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header -->
-<img src="./header.svg" alt="Adrián Gutiérrez - Technical Program Manager | Full Stack Developer | Automation &amp; AI" width="100%"/>
+<img src="https://raw.githubusercontent.com/amsteradri/amsteradri/main/header.svg" alt="Adrián Gutiérrez - Technical Program Manager | Full Stack Developer | Automation &amp; AI" width="100%"/>
 
-<img src="./typing.svg" alt="Technical Program Manager | Full Stack Developer | Automation &amp; Generative AI" width="800" />
+<img src="https://raw.githubusercontent.com/amsteradri/amsteradri/main/typing.svg" alt="Technical Program Manager | Full Stack Developer | Automation &amp; Generative AI" width="800" />
 
 </div>
 
@@ -97,7 +97,7 @@ const adrian = {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="./footer.svg" alt="Thanks for visiting!" width="100%" />
+<img src="https://raw.githubusercontent.com/amsteradri/amsteradri/main/footer.svg" alt="Thanks for visiting!" width="100%" />
 
 </div>
 
