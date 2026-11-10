@@ -1,22 +1,24 @@
 <div align="center">
 
-<!-- Header con gradiente animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=ADRIÁN%20GUTIÉRREZ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevRel%20Intern%20|%20API%20Advocate&descAlignY=55&descSize=20" width="100%"/>
+<!-- Header -->
+<img src="./header.svg" alt="Adrián Gutiérrez - Technical Program Manager | Full Stack Developer | Automation &amp; AI" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;DevRel+Intern+at+Telefonica;API+Advocate;Building+Amazing+Products;From+Madrid+with+Love" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="./typing.svg" alt="Technical Program Manager | Full Stack Developer | Automation &amp; Generative AI" width="800" />
 
 </div>
 
 ## 💫 About Me
+
 ```typescript
 const adrian = {
     location: "Madrid 🇪🇸",
-    roles: ["Full Stack Developer", "DevRel Intern", "API Advocate"],
-    company: "Telefónica Innovación Digital",
+    currentRole: "Technical Project Manager @ Movistar Plus+",
+    previously: ["DevRel Intern @ Telefónica Innovación Digital (Open Gateway)", "Founder @ Nearvice"],
+    roles: ["Technical Program Manager", "Full Stack Developer", "API Advocate"],
+    focus: ["Business apps", "Process automation", "Data & BI", "Generative AI agents"],
     passions: ["Clean Code", "Innovation", "Problem Solving", "Developer Experience"],
-    currentlyLearning: ["Cloud Architecture", "AI/ML", "Advanced React Patterns"],
+    education: ["42 Madrid", "Master in Technology Applied to Business Intelligence (UNIR)"],
+    currentlyLearning: ["AI Agents", "Cloud Architecture", "Advanced React Patterns"],
     funFact: "I turn coffee ☕ into code 💻"
 };
 ```
@@ -52,19 +54,26 @@ const adrian = {
 
 ### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,c,dart,kotlin,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,c,dart,flutter&theme=dark" />
 
-### 🎨 Frontend & Styling
+### 🎨 Frontend & Design
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" />
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Data
 
-<img src="https://skillicons.dev/icons?i=express,django,flask,mongodb,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,powerbi&theme=dark" />
 
 ### 🔧 Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman,azure&theme=dark" />
+
+### 🤖 Power Platform & Automation
+
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 
 </div>
 
@@ -74,7 +83,7 @@ const adrian = {
 
 ## 📬 Let's Connect!
 
-<a href="https://www.linkedin.com/in/adri%C3%A1n-gutierrez-segovia-1275a8165/">
+<a href="https://www.linkedin.com/in/adriangutierrezsegovia">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
 </a>
 <a href="mailto:amsteradri@gmail.com">
@@ -88,7 +97,7 @@ const adrian = {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="./footer.svg" alt="Thanks for visiting!" width="100%" />
 
 </div>
 
@@ -99,8 +108,6 @@ const adrian = {
 <img src="https://raw.githubusercontent.com/amsteradri/amsteradri/output/snake.svg" alt="Snake animation" />
 
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/amsteradri/count.svg)
 
 <img src="https://komarev.com/ghpvc/?username=amsteradri&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
 
